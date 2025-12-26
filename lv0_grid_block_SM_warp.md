@@ -59,8 +59,7 @@ Block characteristics:
 ---
 
 ## 4. Grid
-
-- A **collection of blocks**.
+- A **logical grouping or collection of blocks**.
 - Defined by the programmer via `blocksPerGrid`.
 - Created when a kernel is launched.
 
